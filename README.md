@@ -14,28 +14,34 @@ A full-stack application for managing cafes and their employees, built with Fast
 ---
 
 ##  Installation & Local Deployment
-### 1. Setup backend and database
-Refer to README of the [backend repo](https://github.com/arnavbajpai/Cafe-web-app/)
+### 1. Prepare the Backend
 
-### 2. Clone the Repository and navigate to frontend repository
+Follow the instructions in the [backend repository](https://github.com/arnavbajpai/Cafe-web-app/) to set up the FastAPI backend and database.
+
+### 2. Clone This Repository
 
 ```bash
 git clone https://github.com/arnavbajpai/Cafe-web-app-frontend.git
 cd Cafe-web-app-frontend
 ```
 
-### 3. Fetch module dependencies
-Run the following command
+### 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the application
+### 4. Run the Frontend
+
 ```bash
 npm run dev
 ```
-Note: Ensure that the application starts up at local port 5173, any other port must be first listed under the middleware in main.py
+
+> **Note:**  
+> The application runs on [http://localhost:5173](http://localhost:5173) by default.  
+> If you wish to use a different port, ensure it is also listed in the backend middleware configuration (`main.py`).
+
+---
 
 ## TBDs
 ---
