@@ -15,7 +15,7 @@ A full-stack application for managing cafes and their employees, built with Fast
 
 ##  Installation & Local Deployment
 ### 1. Setup backend and database
-Follow instructions to setup database and backend [here](https://github.com/arnavbajpai/Cafe-web-app/README.md)
+Refer to README of the [backend repo](https://github.com/arnavbajpai/Cafe-web-app/)
 
 ### 2. Clone the Repository and navigate to frontend repository
 
