@@ -35,9 +35,7 @@ npm install
 ```bash
 npm run dev
 ```
-Note: Ensure that the application starts up at local port 5173, any other port must be first listed under the middleware
-Add this line to [main.py](https://github.com/arnavbajpai/Cafe-web-app/main.py) in your local repo:
-
+Note: Ensure that the application starts up at local port 5173, any other port must be first listed under the middleware in main.py
 
 ## TBDs
 ---
