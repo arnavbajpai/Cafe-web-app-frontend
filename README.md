@@ -2,18 +2,9 @@
 
 A full-stack application for managing cafes and their employees, built with FastAPI (backend) and a modern JavaScript frontend.
 
-##  Main Features
-
-- **Cafe & Employee Management:** Easily add, edit, and delete cafes and employees.
-- **Search Tool:**  
-  - Filter cafes by location.
-  - Filter employees by cafe name.  
-  *(New in v1.0!)*
-- Simple and intuitive UI for efficient management.
-
 ---
 
-##  Installation & Local Deployment
+##  Frontend installation & Local Deployment
 ### 1. Prepare the Backend
 
 Follow the instructions in the [backend repository](https://github.com/arnavbajpai/Cafe-web-app/) to set up the FastAPI backend and database.
