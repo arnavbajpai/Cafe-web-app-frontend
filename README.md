@@ -34,22 +34,6 @@ npm run dev
 
 ---
 
-## TBDs
----
-
-1. **Dockerise Backend** 
-
-
-
-2. **To be deployed on AWS.** 
-
-
-
-3. **Add db trigger to auto delete employees when cafe is deleted.** 
-
----
-
-
 ## 🤝 Contributing
 
 Pull requests and feature suggestions are welcome! Please open an issue to discuss potential changes.
